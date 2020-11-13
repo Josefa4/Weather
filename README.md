@@ -27,7 +27,8 @@ Lasso regression might choose only a few variables to base its estimates on,
 it will be interesting to see which variables it might prefer.
  Ridge regression on the other hand, will keep these variables and might therefore come to a different conclusion.
 
-4. Intended experiments: What experiments are you planning to run? How do you plan to evaluate your machine learning algorithm?
+4. Intended experiments: What experiments are you planning to run? 
+How do you plan to evaluate your machine learning algorithm?
             First and foremost, we will be experimenting with various types of regression model, 
 in order to find out which one is most optimal for our needs. 
 Following that, we hope that we may be able to spot correlation between certain pieces of data that might not be entirely intuitive, 
