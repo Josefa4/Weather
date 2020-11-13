@@ -1,6 +1,8 @@
 Project proposal - Group 54
 Project title: Weather Pattern Evolution
+
 Rachel Dupuy, student number: 16326948
+
 Josefa Kubitová, student number: 16329260
 
 1. Motivation: What problem are you tackling? 
